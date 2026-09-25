@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical, panels, and wiring. Across Corona and the Inland Empire. Weston looks at the job first and puts the price in writing.';
+            'Residential electrical, panels, and wiring in Corona. Weston looks at the job first and puts the price in writing.';
         }
       }
     },
